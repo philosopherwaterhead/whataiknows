@@ -1,4 +1,2 @@
-# whataiknows
-
-[Markdown記法チートシート(Qiita)](https://qiita.com/Qiita/items/c686397e4a0f4f11683d#links---%E3%83%AA%E3%83%B3%E3%82%AF)
-
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
